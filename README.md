@@ -302,5 +302,5 @@ INSTALLED_APPS = [
 **NOTE:** *For more providers, check the documentation: [django-allauth](https://docs.allauth.org/en/latest/installation/quickstart.html)*  
 
 
-Simolar tutorial on `How to setup 3rd party authentication to sign in to the django app with google account.` can be found [in this repository](https://github.com/svvoii/django_oauth_google).  
+Similar tutorial on `How to setup 3rd party authentication to sign in to the django app with google account.` can be found [in this repository](https://github.com/svvoii/django_oauth_google).  
 
