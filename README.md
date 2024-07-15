@@ -6,8 +6,6 @@ This tutorial shows how to setup custom oauth2 provider with `django-allauth` us
 
 - Python 3.8
 - Pipeenv
-- Django 3.1
-- django-allauth
 
 *Creating new directory for the project and virtual environment:*
 
@@ -44,7 +42,7 @@ python manage.py startapp user_app
 *This app will render the `profile.html` template.*  
 *In your project it might be the app where the user management is done.*  
 
-*The following apps will be responsible for the custom oauth2 provider, in our case 42 API:*  
+*And the following app will be responsible for the custom oauth2 provider, in our case 42 API:*  
 
 ```bash
 python manage.py startapp oauth2_provider_42
